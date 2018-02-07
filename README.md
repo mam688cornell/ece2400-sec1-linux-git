@@ -8,5 +8,4 @@ blue
 indigo
 violet
 
-
-conflicts
+no
