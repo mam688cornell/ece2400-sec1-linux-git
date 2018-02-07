@@ -1,5 +1,9 @@
 # ece2400-sec1-linux-git
 
 red
+orange
 green
-blue
+yellow
+blue 
+indigo
+violet
