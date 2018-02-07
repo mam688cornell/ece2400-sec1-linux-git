@@ -2,8 +2,8 @@
 
 red
 orange
-green
 yellow
+green
 blue 
 indigo
 violet
